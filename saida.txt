@@ -1,0 +1,46 @@
+commit d6f6f4b295bb2abbcced3c4c284e2c97f6b7733b
+Author: Marianna Gonçalves <marisgferreira@gmai.com>
+Date:   Sun Apr 2 10:44:44 2023 -0500
+
+    Apaguei a imagem da pasta.
+
+ web.png | Bin 3278 -> 0 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3482a58a23f77a5768121077f13e5f0771c81ccc
+Author: Marianna Gonçalves <marisgferreira@gmai.com>
+Date:   Sun Apr 2 10:43:07 2023 -0500
+
+    Adicionai uma imagem na pasta.
+
+ web.png | Bin 0 -> 3278 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 1efe8c0a9d2485e55023681d35c181c77d4ac527
+Author: Marianna Gonçalves <marisgferreira@gmai.com>
+Date:   Sun Apr 2 10:31:02 2023 -0500
+
+    Página principa com nova linha
+
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 212e2360d31ae9ef5a0f7ce7183fd911645bceda
+Author: Marianna Gonçalves <marisgferreira@gmai.com>
+Date:   Sun Apr 2 10:28:26 2023 -0500
+
+    Tornando a página mais botina!
+
+ Readm.md      | 3 +++
+ bluestyle.css | 8 ++++++++
+ index.html    | 1 +
+ 3 files changed, 12 insertions(+)
+
+commit f86484e7bd0a93e1a1d8f20a1174f6335db8c00f
+Author: Marianna Gonçalves <marisgferreira@gmai.com>
+Date:   Sun Apr 2 02:16:59 2023 -0500
+
+    Envio da primeira pagina!
+
+ index.html | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
